@@ -10087,6 +10087,11 @@ ripemd160@^2.0.0, ripemd160@^2.0.1:
     hash-base "^3.0.0"
     inherits "^2.0.1"
 
+rudder-sdk-js@^1.0.8:
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/rudder-sdk-js/-/rudder-sdk-js-1.0.8.tgz#90112607dc679f93730afd289ea31fff9eb6de48"
+  integrity sha512-IhAjpIY95zBBnhcltiWHlOMS1fGAjMn9vpyA/zDnlKDiIzuy1RPUh25HVvOaEs6xJGcwbqPeDDm9JFvfmJwGxQ==
+
 run-async@^2.2.0, run-async@^2.4.0:
   version "2.4.1"
   resolved "https://registry.yarnpkg.com/run-async/-/run-async-2.4.1.tgz#8440eccf99ea3e70bd409d49aab88e10c189a455"
