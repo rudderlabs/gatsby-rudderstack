@@ -1,6 +1,6 @@
 import React from "react"
-import * as rudderanalytics from "rudder-sdk-js"
+import Loadable from "@loadable/component"
 
-export default function Home() {
-  return <div>Hello world!</div>
-}
+const LoadableHome = Loadable(() => import("../components/home"))
+
+export default LoadableHome
